@@ -1,0 +1,8 @@
+.result{
+    padding: 15px 10px;
+    border: 1px solid white;
+    background-color: violet;
+    width: 100%;
+    color: black;
+    cursor: pointer;
+}
